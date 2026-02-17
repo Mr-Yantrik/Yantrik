@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bhandara_locator
 
 A new Flutter project.
